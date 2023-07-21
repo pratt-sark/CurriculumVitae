@@ -31,5 +31,7 @@ Feel free to explore the different sections of the CV and customize the content 
 
 Pratyay Sarkar is a passionate computer science enthusiast with hands-on experience in various web development technologies. Connect with him on GitHub and LinkedIn to learn more about his projects and accomplishments.
 
+---
 **GitHub:** [https://github.com/pratt-sark](https://github.com/pratt-sark)
+</br>
 **LinkedIn:** [https://www.linkedin.com/in/pratyaysarkar/](https://www.linkedin.com/in/pratyaysarkar/)
