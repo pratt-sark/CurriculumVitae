@@ -25,7 +25,7 @@ Feel free to explore the different sections of the CV and customize the content 
 
 - HTML
 - CSS
-- JavaScript (optional - for adding interactivity
+- JavaScript (optional - for adding interactivity)
 
 ## About Pratyay Sarkar
 
