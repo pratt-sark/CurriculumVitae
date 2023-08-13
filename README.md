@@ -19,8 +19,8 @@ This CV is designed as a web page using HTML and CSS.
 - Languages Known section, indicating my language proficiency.
 - Personal Projects section, providing links to my GitHub repositories.
 - Research Interest section, highlighting my passion for Natural Language Processing.
-- Hobbies section with details about reading books and producing electronic music.
-- Co-Curricular Activities section detailing playing football.
+- Hobbies section with details about each hobby.
+- Co-Curricular Activities section detailing each activity.
 - Contact Links section, connecting to my GitHub and LinkedIn profiles.
 
 ## Usage
