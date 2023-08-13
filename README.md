@@ -1,11 +1,11 @@
 # CV - Pratyay Sarkar
 
-#### Welcome to the GitHub repository for my Curriculum Vitae (CV). 
+Welcome to the GitHub repository for my Curriculum Vitae (CV). 
 
 I'm Pratyay Sarkar, a computer science enthusiast.
 
-- I love making Web Based Applications, hence a strong focus on Full Stack Development. 
-- I am highly interested in Natural Language Processing, hence I chose it as a domain for my Master's Project. 
+- I love making <strong>Web Based Applications</strong>, hence a strong focus on <strong>Full Stack Development</strong>. 
+- I am highly interested in <strong>Natural Language Processing</strong>, hence I chose it as a domain for my <strong>Master's Project</strong>. 
 
 This CV is designed as a web page using HTML and CSS.
 
