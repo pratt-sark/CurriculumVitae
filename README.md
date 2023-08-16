@@ -1,6 +1,6 @@
 # CV - Pratyay Sarkar
 
-Welcome to the GitHub repository for my Curriculum Vitae (CV) [!https://pratt-sark.github.io/CurriculumVitae/]
+Welcome to the GitHub repository for my Curriculum Vitae (CV) https://pratt-sark.github.io/CurriculumVitae/
 
 I'm Pratyay Sarkar, a computer science enthusiast.
 
